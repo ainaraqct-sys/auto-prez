@@ -1,0 +1,34 @@
+[table][tr][td][center][img]{{URL_COVER}}[/img][/center][/td][td]
+[center][b][size=200]{{TMDB_TITLE}} ({{TMDB_YEAR}})[/size][/b][/center]
+
+[center][img]https://fastpic.ca/images/2026/02/13/k0RE-banniere-1-resized.png[/img][/center]
+
+[center][b]Origine:[/b] {{TMDB_COUNTRY}}
+[b]Sortie:[/b] {{TMDB_RELEASE_DATE}}
+[b]Titre original:[/b] {{TMDB_ORIGINAL_TITLE}}
+[b]Durée:[/b] {{TMDB_RUNTIME}}
+[b]Réalisateur(s):[/b] {{TMDB_DIRECTOR}}
+[b]Acteurs: [/b] {{TMDB_CAST}}
+[b]Genres: [/b] {{TMDB_GENRES}}
+[b]Note:[/b] {{TMDB_RATING}}
+[img]https://zupimages.net/up/21/03/mxao.png[/img] [url=https://www.themoviedb.org/movie/{{TMDB_ID}}]Fiche du film[/url][/center]
+
+[center][img]https://fastpic.ca/images/2026/02/13/k0RE-banniere-2-resized.png[/img][/center]
+
+[center][i][b]{{TMDB_SYPNOSIS}}[/b][/i][/center][/td][/tr][/table]
+
+[table][tr][td]
+
+﻿[img]https://fastpic.ca/images/2026/02/13/k0RE-banniere-3-resized.png[/img][/td][td]
+
+[center][color=#9900ff][b]Release :[/b][/color][b] {{NFO_COMPLETE_NAME}}
+[color=#9900ff][b]Source :[/b][/color] AMZN|DSNP|CanalPlus "k0RE"
+[color=#9900ff][b]Vidéo :[/b][/color] WEB 1080p {{NFO_VIDEO_FORMAT}} - {{NFO_VIDEO_BIT_RATE}} - {{NFO_VIDEO_FRAME_RATE}}
+[color=#9900ff][b]Audio :[/b][/color]
+{{NFO_AUDIO}}
+[color=#9900ff][b]Sous-titres [/b][/color]:
+{{NFO_SUBS}} 
+[color=#9900ff][b]Débits Global :[/b][/color] {{NFO_GENERAL_DEBIT_GOLBAL}}
+[color=#9900ff]Poids Total :[/color][/b] [b]{{NFO_GENERAL_TAILLE_DU_FICHIER}}[/b]
+
+[img]https://zupimages.net/up/24/37/gupe.png[/img] [color=#666666]Note :[/color]Un petit merci fait toujours plaisir ! =)﻿[/center][/td][/tr][/table]
